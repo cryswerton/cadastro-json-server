@@ -41,20 +41,6 @@
       "author": "Brandon Sanderson",
       "score": 10,
       "finished_reading_date": "06/2021"
-    },
-    {
-      "name": "Book1",
-      "author": "Chester",
-      "score": "5",
-      "finish_reading_date": "today",
-      "id": 7
-    },
-    {
-      "name": "Book2",
-      "author": "John",
-      "score": "7",
-      "finish_reading_date": "07/2021",
-      "id": 8
     }
   ]
 }
