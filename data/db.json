@@ -1,0 +1,46 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "Eu, Robô",
+        "author": "Isaac Asimov",
+        "personalScore": 9,
+        "finishReadingDate": "04/2021"
+      },
+      {
+        "id": 2,
+        "name": "Hércules",
+        "author": "Menelaos Stephanides",
+        "personalScore": 8,
+        "finishReadingDate": "04/2021"
+      },
+      {
+        "id": 3,
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "personalScore": 8,
+        "finishReadingDate": "04/2021"
+      },
+      {
+        "id": 4,
+        "name": "As Cavernas de Aço",
+        "author": "Isaac Asimov",
+        "personalScore": 9,
+        "finishReadingDate": "05/2021"
+      },
+      {
+        "id": 5,
+        "name": "Linux Essencial",
+        "author": "Fábio J L Ferreira",
+        "personalScore": 8,
+        "finishReadingDate": "05/2021"
+      },
+      {
+        "id": 6,
+        "name": "Coração de Aço",
+        "author": "Brandon Sanderson",
+        "personalScore": 10,
+        "finishReadingDate": "06/2021"
+      }
+    ]
+  }
