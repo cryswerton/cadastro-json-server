@@ -9,8 +9,8 @@ const renderDetails = async () => {
     const template = `
         <h2>${post.name}</h2>
         <h3>${post.author}</h3>
-        <h3>${post.personalScore}</h3>
-        <h3>${post.finishReadingDate}</h3>
+        <h3>${post.score}</h3>
+        <h3>${post.finished_reading_date}</h3>
     `
 
     container.innerHTML = template

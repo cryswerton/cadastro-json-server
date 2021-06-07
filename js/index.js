@@ -2,7 +2,7 @@
 const container = document.querySelector('.blogs')
 
 const renderPosts = async () => {
-    let uri = 'http://localhost:3000/books'
+    let uri = 'http://localhost:3000/books?_sort=score&_order=desc'
 
     // res is the response object we got
     const res = await fetch(uri)
