@@ -1,46 +1,60 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "name": "Eu, Robô",
-        "author": "Isaac Asimov",
-        "score": 9,
-        "finished_reading_date": "04/2021"
-      },
-      {
-        "id": 2,
-        "name": "Hércules",
-        "author": "Menelaos Stephanides",
-        "score": 8,
-        "finished_reading_date": "04/2021"
-      },
-      {
-        "id": 3,
-        "name": "Frankenstein",
-        "author": "Mary Shelley",
-        "score": 8,
-        "finished_reading_date": "04/2021"
-      },
-      {
-        "id": 4,
-        "name": "As Cavernas de Aço",
-        "author": "Isaac Asimov",
-        "score": 9,
-        "finished_reading_date": "05/2021"
-      },
-      {
-        "id": 5,
-        "name": "Linux Essencial",
-        "author": "Fábio J L Ferreira",
-        "score": 8,
-        "finished_reading_date": "05/2021"
-      },
-      {
-        "id": 6,
-        "name": "Coração de Aço",
-        "author": "Brandon Sanderson",
-        "score": 10,
-        "finished_reading_date": "06/2021"
-      }
-    ]
-  }
+  "books": [
+    {
+      "id": 1,
+      "name": "Eu, Robô",
+      "author": "Isaac Asimov",
+      "score": 9,
+      "finished_reading_date": "04/2021"
+    },
+    {
+      "id": 2,
+      "name": "Hércules",
+      "author": "Menelaos Stephanides",
+      "score": 8,
+      "finished_reading_date": "04/2021"
+    },
+    {
+      "id": 3,
+      "name": "Frankenstein",
+      "author": "Mary Shelley",
+      "score": 8,
+      "finished_reading_date": "04/2021"
+    },
+    {
+      "id": 4,
+      "name": "As Cavernas de Aço",
+      "author": "Isaac Asimov",
+      "score": 9,
+      "finished_reading_date": "05/2021"
+    },
+    {
+      "id": 5,
+      "name": "Linux Essencial",
+      "author": "Fábio J L Ferreira",
+      "score": 8,
+      "finished_reading_date": "05/2021"
+    },
+    {
+      "id": 6,
+      "name": "Coração de Aço",
+      "author": "Brandon Sanderson",
+      "score": 10,
+      "finished_reading_date": "06/2021"
+    },
+    {
+      "name": "Book1",
+      "author": "Chester",
+      "score": "5",
+      "finish_reading_date": "today",
+      "id": 7
+    },
+    {
+      "name": "Book2",
+      "author": "John",
+      "score": "7",
+      "finish_reading_date": "07/2021",
+      "id": 8
+    }
+  ]
+}
