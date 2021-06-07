@@ -1,0 +1,7 @@
+install live server
+
+npm install --save json-server
+
+json-server --watch data/db.json
+
+npm run start
